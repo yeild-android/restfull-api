@@ -15,3 +15,14 @@ dependencies {
         implementation 'com.github.yeild-android:restfull-api:${Tag}'
 }
 ```
+
+Step 3. 在app的build.gradle文件中配置使用java8编译：
+```
+android {
+  ...
+  compileOptions {
+    sourceCompatibility JavaVersion.VERSION_1_8
+    targetCompatibility JavaVersion.VERSION_1_8
+  }
+}
+```
