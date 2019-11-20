@@ -1,1 +1,3 @@
-include ':app', ':restfulapi'
+include ':app', ':restfullapi'
+
+rootProject.name = 'com.yeild.restfullapi'

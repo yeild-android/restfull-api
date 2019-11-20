@@ -1,4 +1,4 @@
-package com.qs.restfulapi;
+package com.yeild.restfulapi;
 
 import android.content.Context;
 
