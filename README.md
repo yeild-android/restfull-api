@@ -12,6 +12,6 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-        implementation 'com.github.yeild-android:restfull-api:Tag'
+        implementation 'com.github.yeild-android:restfull-api:${Tag}'
 }
 ```
